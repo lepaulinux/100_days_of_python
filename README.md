@@ -7,8 +7,9 @@ Welcome to my 100 Days of Python challenge! 🎉
 I am committing to coding in Python for 100 consecutive days to learn, practice, and improve my skills. Every day, I will share:
 
 A new Python project 💻
+
 Useful tips I discover along the way 🔍
-Solutions to challenges with explanations 🧠
+
 🎯 Goals
 ✔ Strengthen my understanding of Python fundamentals
 ✔ Work on real-world projects and problem-solving
