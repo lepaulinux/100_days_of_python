@@ -15,7 +15,7 @@ Useful tips I discover along the way 🔍
 ✔ Share knowledge and learn from the community
 
 📂 Daily Projects
-Each project will be uploaded to this repository under a daily folder (e.g., Day 1, Day 2, ...). Feel free to explore them, try them out, and modify them for your own learning.
+Each project will be uploaded to this repository under a comment (e.g., Day 1, Day 2, ...). Feel free to explore them, try them out, and modify them for your own learning.
 
 🤝 Contribute & Collaborate
 💡 Found a better way to solve a challenge? Fork the repo, comment, or open a pull request!
